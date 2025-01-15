@@ -240,3 +240,9 @@ footer input[typ="text"], footerinput[typ="email"],footer textarea{
     margin-bottom: 24px;
 }
 
+@media screen and (max-width: 576px){
+    .skills-container{
+        flex-direction: column;
+    }
+}
+
